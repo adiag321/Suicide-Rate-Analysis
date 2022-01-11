@@ -4,21 +4,26 @@
 
   From growing up in the heart of Silicon Valley, I have always wondered what was the factors that play a role in Suicide. There have been a plethora of suicide clusters from my High School in Palo Alto. This project seeks to explore the underlying factors. We will use a sample of 44,000 gather data from 141 different Countries, between the 80's to 2016. We would like to make a Machine Learning algorithm where we can train our AI to learn & improve from experience. Thus, we would want to predict the amount of suicides numbers in a certain demographic.
 
-  Finally, I have generated a report to present my findings to the audience - <a href = "">Link</a>
 
  # Overview
 
 In this mini-project, we will perform the following steps -
 
 1.Data Wrangling
+
 2.Exploratory Data Analysis
+
 3.Machine Learning + Predictive Analytics 
+
 4.Conclusions
+
 5.References
 
 
 Data is collected from kaggle - <a href = "https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016">Link</a>
 
+
+Finally, I have generated a report to present my findings to the audience - <a href = "">Link</a>
 
 # Questions
 
@@ -47,9 +52,9 @@ We will try to find the answers for the following questions during our analysis 
 
 <img src = "Images/Suicide V:s Sex.png">
 
-5. Suicides Over Year
+5. GDP V/s Suicide
 
-<img src = "Images/Suicides Over Year.png">
+<img src = "Images/GDP V:s Suicide.png">
 
 
 # Conclusions
