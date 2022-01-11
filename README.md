@@ -41,11 +41,11 @@ We will try to find the answers for the following questions during our analysis 
 
 3. Country V/s Suicide Count
 
-<img src = "Images/Country V/s Suicide Count.png">
+<img src = "Images/Country V:s Suicide Count.png">
 
 4. Suicide V/s Sex
 
-<img src = "Images/Suicide V/s Sex.png">
+<img src = "Images/Suicide V:s Sex.png">
 
 5. Suicides Over Year
 
