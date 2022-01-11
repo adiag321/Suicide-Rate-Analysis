@@ -35,7 +35,7 @@ We will try to find the answers for the following questions during our analysis 
 
 2. Suicides Over Year
 
-<img src = "Images/Suicides Over the Year.png">
+<img src = "Images/Suicides Over the Years.png">
 
 3. Country V/s Suicide Count
 
