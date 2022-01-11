@@ -6,21 +6,14 @@
 
 
  # Overview
+Data is collected from kaggle - <a href = "https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016">Link</a>
 
 In this mini-project, we will perform the following steps -
-
-1.Data Wrangling
-
-2.Exploratory Data Analysis
-
-3.Machine Learning + Predictive Analytics 
-
-4.Conclusions
-
-5.References
-
-
-Data is collected from kaggle - <a href = "https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016">Link</a>
+1.Data Wrangling <br>
+2.Exploratory Data Analysis<br>
+3.Machine Learning + Predictive Analytics <br>
+4.Conclusions <br>
+5.References <br>
 
 
 Finally, I have generated a report to present my findings to the audience - <a href = "">Link</a>
