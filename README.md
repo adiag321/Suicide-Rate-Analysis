@@ -16,7 +16,7 @@ In this mini-project, we will perform the following steps -
 5.References <br>
 
 
-Finally, I have generated a report to present my findings to the audience - <a href = "">Link</a>
+Finally, I have generated a report to present my findings to the audience - <a href = "https://sites.google.com/view/suicide-rate-analysis">Link</a>
 
 # Questions
 
@@ -56,7 +56,3 @@ We will try to find the answers for the following questions during our analysis 
 2. Russian levels of alcohol consumption plays an immense role in it's large suicide count, but their is a lack of data to support this due to Soviet secrecy.
 3. The data illustrates that middle aged adults, between the ages of 30 through 60, have the highest suicide count. While elderly and adolescents have about half the amount as middle aged adults.
 4. Suicide is one of the leading causes of death among all Americans adults. Data show alarming differences in suicide for different sexes. It's evident that males are more inclined to suicide, than females. In addition, Mental health is a major predictor for suicide.
-
-
-
-
