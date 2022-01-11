@@ -33,9 +33,9 @@ We will try to find the answers for the following questions during our analysis 
 
 <img src = "Images/Population pyramid.png">
 
-2. Suicides Over Year
+2. Age V/s Suicide Count
 
-<img src = "Images/Suicides Over the Years.png">
+<img src = "Images/Age V:s Suicide Count.png">
 
 3. Country V/s Suicide Count
 
